@@ -11,6 +11,20 @@
 7. Apa yang anda ketahui tentang Orchestration Container System?
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+1. DevOps merupakan penggabungan proses development dari sebuah aplikasi dengan operation. Devops memiliki kunci koordinasi antar tim, dimana koordinastersebut menggunakan tools seperti Gitub, GitLab, dan semacamnya.
+
+2. Infrastruktur sendiri mencakup segala hal yang diperlukan untuk membangun dan menjalankan aplikasi
+
+3. Merupakan salah satu sistem komputer yang menyediakan jenis layanan tertentu. Contohnya web server, database server, file server dan semacamnya
+
+4. Untuk keamanan, Memudahkan pengembang melakukan Pengujian, serta memudahkan pengembang mengakses data secara efisien
+
+5. Kontainer dan virtualisasi merupakan teknologi deployment, dimana masing mempunyai kelebihan dan kekurangan sendiri. Contoh Virtualisasi memiliki ukuran yg lebih besar dan container memiliki ukuran yg lbih ringan
+
+6. Container dapat dengan cepat di deploy, diatur dan dimanage sesuai kebutuhan.
+
+7. Orchestration Container System adalah proses mengotomatiskan pengelolaan kontainer sehingga memudahkan pengembang menerapkan pada aplikasi skala besar.
+
 
 ## Task 1 (Virtualization)
 
